@@ -1,3 +1,5 @@
 Integration status between taiga and github 
 
-STATUS : DONE
+STATUS : NOT YET
+
+
